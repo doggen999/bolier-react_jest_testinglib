@@ -1,0 +1,33 @@
+{
+  "name": "advent-of-code-2019",
+  "version": "1.0.0",
+  "description": "## Day 1.1 Fuel required for a module is based on it's mass;",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "npm run test -- --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doggen999/advent-of-code-2019.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doggen999/advent-of-code-2019/issues"
+  },
+  "homepage": "https://github.com/doggen999/advent-of-code-2019#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.7.7",
+    "@babel/preset-react": "^7.7.4",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.4.0",
+    "babel-jest": "^24.9.0",
+    "jest": "^24.9.0",
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "react-test-renderer": "^16.12.0"
+  }
+}
