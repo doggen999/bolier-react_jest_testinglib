@@ -1,8 +1,2 @@
-# advent-of-code-2019
-
-## Day 1.1
-https://adventofcode.com/2019/day/1
-
-Fuel required for a module is based on it's mass; 
-
-    To get fuel required; mass divided by 3, round down, subtract 2
+# Bolier plate for testing React with Jest and React testing library
+Boilerplate for React App testing with Jest and React Testing Library
